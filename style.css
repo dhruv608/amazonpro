@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(/amazonpro/public/images/logo.png);
+    background-image: url(./amazonpro/public/images/logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
@@ -284,7 +284,7 @@ ul a{
  align-items: center;
 }
 .foot-logo{
-    background-image: url(public/image/logoamazon-removebg-preview\ \(1\).png);
+    background-image: url(public/image/logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
