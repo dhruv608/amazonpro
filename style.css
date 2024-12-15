@@ -211,7 +211,7 @@
     padding: 0;
 }
 .hero-section{
-    background-image: url(/amazonpro/public/images/heroimg.jpg);
+    background-image: url(./public/images/heroimg.jpg);
     background-size: cover;
     height: 300px;
     display: flex;
