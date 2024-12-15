@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(./amazonpro/public/images/logo.png);
+    background-image: url(./images/logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
@@ -211,7 +211,7 @@
     padding: 0;
 }
 .hero-section{
-    background-image: url(./public/images/heroimg.jpg);
+    background-image: url(./images/heroimg.jpg);
     background-size: cover;
     height: 300px;
     display: flex;
@@ -284,7 +284,7 @@ ul a{
  align-items: center;
 }
 .foot-logo{
-    background-image: url(public/image/logo.png);
+    background-image: url("./images/logo.png");
     height: 50px;
     width: 113px;
     background-size: cover;
